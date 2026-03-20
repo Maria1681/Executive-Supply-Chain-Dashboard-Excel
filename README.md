@@ -2,7 +2,7 @@
 
 A comprehensive, interactive Supply Chain analytics solution built entirely in **Microsoft Excel**. This project transforms raw logistics data into a high-level executive tool to optimize margins and mitigate transport risks.
 
-![Dashboard Screenshot](supply_chain_dashboard.png)
+![Dashboard_Screenshot](supply_chain_dashboard.png)
 
 ## Project Overview
 This dashboard provides a "Single Pane of Glass" view into global supply chain operations. It tracks **$577K in Revenue** and identifies critical bottlenecks in transportation and inventory management using advanced Excel visualization techniques.
