@@ -2,13 +2,11 @@
 
 A comprehensive, interactive Supply Chain analytics solution built entirely in **Microsoft Excel**. This project transforms raw logistics data into a high-level executive tool to optimize margins and mitigate transport risks.
 
-![Dashboard_Screenshot](supply_chain_dashboard.png)
-
 ## Project Overview
 This dashboard provides a "Single Pane of Glass" view into global supply chain operations. It tracks **$577K in Revenue** and identifies critical bottlenecks in transportation and inventory management using advanced Excel visualization techniques.
 
 ### Key Business Insights
-* **Profitability vs. Risk:** Identified a **30% average Net Profit Margin**, with the West Coast Hub outperforming others at **57.04%**.
+* **Profitability vs. Risk:** Identified a **54% Profit Margin**, with the West Coast Hub outperforming others at **57.04%**.
 * **Quality Failure Point:** Isolated **Road Transport** as a primary risk factor, contributing to a **76.01% relative defect rate**.
 * **Inventory Optimization:** Analyzed 100+ SKUs via Scatter Plot to categorize "Zombies" (Dead Capital) and "Stockout Risks" (High Velocity).
 
